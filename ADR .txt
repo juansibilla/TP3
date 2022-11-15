@@ -1,0 +1,3 @@
+App planes y suscripciones.
+objetivo: Sistema para cargar ver planes de pago y crear cupones de descuentos
+Usamos django debido a que es facil de usar y hacer una api, este ademas crea una base de datos automaticamente al inicar un proyecto.
